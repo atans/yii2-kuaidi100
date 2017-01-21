@@ -1,0 +1,21 @@
+{
+    "name": "atans/yii2-kuaidi100",
+    "description": "kuaidi100 for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "atans",
+            "email": "atans.chiu@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "atans\\kuaidi100\\": ""
+        }
+    }
+}
